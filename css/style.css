@@ -19,14 +19,15 @@ h1 {
  }
 
 .claseContenedorLeft {
-    background-color: black;
+
+    background-color: white;
     text-align: center;
     flex-grow: 2;
 }
 
 .claseContenedorRight {
     flex-grow: 4;
-    text-align: center;
+    text-align: left;
 }
 
 .claseInnerDiv {
@@ -55,9 +56,9 @@ h1 {
 }
 
 .claseMenuNavegacion {
-    color: white;
+    color: black;
     font-weight: bold;
-    
+
 }
 
 .claseMenuNavegacion:hover{
